@@ -136,9 +136,7 @@ ul li{
 }
 /* featured style */
 #featured{
-    background-image: url(/styles/gear.png);
-    background-repeat: repeat;
-    background-size: contain;
+    background-color: #404142;
 }
 #featured .featured-inner{
     text-align: center;
